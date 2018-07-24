@@ -1,0 +1,11 @@
+1. Yes, it compiles.
+
+2. Yes, it has been tested using numerous attempts from unique local servers. (Home and library)
+
+3. Yes the code is all my own apart from the files provided.
+
+4. Yes, the program runs on the local host.
+
+5. I was not able to test the program on different hosts
+
+6. I was able to complete the programming process in about an hour and a half. However, I spent quite a bit of time debugging why I could not get it to compile, which ended up ultimately being futile. There was some discrepency with the programs recognition of the Node symbols. I redownloaded the Input-File folder provided, and placed my Client/Server classes inside that directory and it worked on the first attempt.
